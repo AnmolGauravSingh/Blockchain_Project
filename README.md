@@ -1,7 +1,4 @@
 # Blockchain-AI Project
-Here is a sample README file for a project that predicts future rewards for miners using a predictive ML model:
-
-# Project Name: Predicting Future Rewards for Miners
 
 ## Overview
 This project aims to predict how much reward a miner will get in the future using a predictive machine learning model. The data is taken from a blockchain mining site, and the model will be trained on historical data to make predictions about future rewards.
